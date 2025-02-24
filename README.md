@@ -1,3 +1,13 @@
+# Preview app
+## Main layout
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/84389a2a-a3a9-43da-888f-de48c19cf57a" />
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/b67c26a9-c221-4ec2-8801-7e76b5b5063f" />
+
+## Chatbot Agent
+![Uploading image.png…]()
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
